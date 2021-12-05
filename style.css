@@ -137,5 +137,15 @@ ul.main-menu li a.active {
   display:block;
 }
 
+.content {
+  display: flex;
+}
+.content img {
+  margin-right: 10px;
+  display: block;
+}
+
+.content h3,
+.content p {margin:0;}
 
 
